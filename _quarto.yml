@@ -1,0 +1,18 @@
+project:
+  title: "Brazillian-Ecommerce-Analysis"
+
+format:
+  html:
+    code-fold: true
+    theme: cosmo
+    toc: true
+    embed-resources: true
+    df-print: paged
+    
+filters:
+   - collapse-output
+   
+execute:
+  collapse: true
+  warning: false
+  message: false
